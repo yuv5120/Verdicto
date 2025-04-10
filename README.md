@@ -35,3 +35,9 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 # Financial-Legal-Chatbot
+<img width="1288" alt="Screenshot 2025-04-10 at 2 34 04 PM" src="https://github.com/user-attachments/assets/bb47fa45-d1e5-462f-b22a-229ace7ffee0" />
+<img width="1288" alt="Screenshot 2025-04-10 at 2 34 37 PM" src="https://github.com/user-attachments/assets/8f023299-e6e9-4d26-80c2-76f8d5bd7161" />
+
+https://github.com/user-attachments/assets/949850da-deb0-4c0f-a2e7-90185a303492
+
+
